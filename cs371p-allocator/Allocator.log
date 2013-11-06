@@ -1,0 +1,151 @@
+commit 6633dc0a8626177c01c34b9c5e2642f6fbe65638
+Author: aelx311 <alex311@gmail.com>
+Date:   Thu Mar 7 16:24:02 2013 -0600
+
+    added more test cases for our own allocator
+
+commit 124a4db47ff9ffefdf82f4032b292ba84a6824bd
+Author: Sanket Sunil Joshi <sj8672@cs.utexas.edu>
+Date:   Thu Mar 7 15:45:28 2013 -0600
+
+    adds documentation
+
+commit d14105da25119ba66871522ae1a73511442bb084
+Author: Sanket Sunil Joshi <sj8672@cs.utexas.edu>
+Date:   Thu Mar 7 15:11:44 2013 -0600
+
+    fixes all warnings and adds test output file
+
+commit 79efa8918bf9808394913123f9d50cc36a585520
+Author: Sanket Sunil Joshi <sj8672@cs.utexas.edu>
+Date:   Thu Mar 7 14:13:31 2013 -0600
+
+    Removes some warnings
+
+commit 37fb12a21bc066d049f8d541caf7e262281cd36d
+Author: sanketj <sanketjoshi@utexas.edu>
+Date:   Thu Mar 7 13:32:21 2013 -0600
+
+    Deletes extra files
+
+commit ec5ee79ba1f7ee01f0edb701822938327c11a14f
+Author: Sanket Sunil Joshi <sj8672@cs.utexas.edu>
+Date:   Thu Mar 7 13:21:12 2013 -0600
+
+    Adds tests and fixes implementation for deallocate
+
+commit a1d6df62e2ff96bfb212b2394714d727dfd5f1d6
+Author: aelx311 <alex311@gmail.com>
+Date:   Thu Mar 7 02:40:58 2013 -0600
+
+    adds deallocate test cases - incomplete
+
+commit 1a2bb69f1f2a7695090c072605dbb2431e8b9052
+Author: aelx311 <alex311@gmail.com>
+Date:   Thu Mar 7 02:37:59 2013 -0600
+
+    test cases for deallocation - incomplete
+
+commit 252d7de3b0579e80e20d7b845776cbba80fa4386
+Author: Sanket Sunil Joshi <sj8672@cs.utexas.edu>
+Date:   Thu Mar 7 02:04:21 2013 -0600
+
+    Adds tests for allocate()
+
+commit fcdb70468c5f7dc595103bfa9d5f089e47b888a4
+Author: aelx311 <alex311@gmail.com>
+Date:   Thu Mar 7 01:15:14 2013 -0600
+
+    added test cases for constructor
+
+commit 4213542fa42b0a6b898ba1b7969664f0a880d9ab
+Author: Sanket Sunil Joshi <sj8672@cs.utexas.edu>
+Date:   Thu Mar 7 00:51:59 2013 -0600
+
+    Adds tests for set()
+
+commit 62878f3ef7386e888b86a23f4de861bbf31809d0
+Author: Sanket Sunil Joshi <sj8672@cs.utexas.edu>
+Date:   Thu Mar 7 00:36:26 2013 -0600
+
+    Adds tests for view()
+
+commit 6c2368deb530e24aed553cd09fd191f964517fbb
+Author: aelx311 <alex311@gmail.com>
+Date:   Wed Mar 6 23:39:38 2013 -0600
+
+    Added test cases for valid()
+
+commit 6b637843f058e807df9cb087f1a68e4b7ee8bc5c
+Author: Sanket Sunil Joshi <sj8672@cs.utexas.edu>
+Date:   Wed Mar 6 21:57:13 2013 -0600
+
+    fixes another valgrind bug in deallocate
+
+commit 847b908cf4f4aeb3ef84f29c3b6c8d06dcf601f4
+Author: Sanket Sunil Joshi <sj8672@cs.utexas.edu>
+Date:   Wed Mar 6 21:46:00 2013 -0600
+
+    fixes memory bug in deallocate
+
+commit e89074d102aabcf3d846ccca69ab18f9800adbd9
+Author: Sanket Sunil Joshi <sj8672@cs.utexas.edu>
+Date:   Wed Mar 6 21:37:15 2013 -0600
+
+    Fixes implementation for deallocate.
+    
+       - valgrind errors/warnings still exist
+
+commit 9f0841560fd19b8804628781897e20377f52bb43
+Author: Sanket Sunil Joshi <sj8672@cs.utexas.edu>
+Date:   Wed Mar 6 19:34:11 2013 -0600
+
+    Enhances valid().
+
+commit fcd5d4f592026cfde0dd649eb104ba74cfa45f64
+Author: Sanket Sunil Joshi <sj8672@cs.utexas.edu>
+Date:   Wed Mar 6 19:21:05 2013 -0600
+
+    Removes tilda files.
+
+commit 5188730514e830e8a4fe8c8178b470f5e03614c1
+Author: aelx311 <alex311@gmail.com>
+Date:   Wed Mar 6 12:04:41 2013 -0600
+
+    fixed allocate() to set the correct sentinel
+
+commit 932729bd6ea1fec66dce0eb86e3bd42d0dfdbd87
+Author: aelx311 <alex311@gmail.com>
+Date:   Tue Mar 5 01:41:57 2013 -0600
+
+    added implementation for allocate and deallocate
+
+commit d4a0053c1befa956e383f89f5e513147398962cb
+Author: Sanket Sunil Joshi <sj8672@cs.utexas.edu>
+Date:   Mon Mar 4 23:56:40 2013 -0600
+
+    Adds constructor implementation
+
+commit 9678a0ae027277f694a1cf5e8b78be5c996b4ee3
+Author: Sanket Sunil Joshi <sj8672@cs.utexas.edu>
+Date:   Mon Mar 4 23:37:21 2013 -0600
+
+    Adds valid implementation
+
+commit e2931b323ca34769d547222d6a7b5374cb449314
+Author: aelx311 <alex311@gmail.com>
+Date:   Sat Mar 2 14:30:14 2013 -0600
+
+    added valid()
+
+commit 29a9968f564d1506e07975bc561e9e1a09f9f85a
+Author: aelx311 <alex311@gmail.com>
+Date:   Wed Feb 27 16:39:18 2013 -0600
+
+    push skeleton files
+
+commit afa8c6fcf3f60852e376f4aaf347726d4df4080f
+Author: aelx311 <alex311@gmail.com>
+Date:   Sun Feb 24 13:38:33 2013 -0800
+
+    Initial commit
