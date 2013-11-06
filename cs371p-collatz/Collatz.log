@@ -1,0 +1,171 @@
+commit 30e574202c8359d1c835565c3d549fa879b135ce
+Author: aelx311 <alex311@gmail.com>
+Date:   Mon Jan 28 22:17:52 2013 -0600
+
+    implemented simple caching
+
+commit f224ff57f999d4d5627f38bff08b146b862f5200
+Author: aelx311 <alex311@gmail.com>
+Date:   Mon Jan 28 14:46:30 2013 -0600
+
+    Updated TestCollatz.c++.out
+
+commit 38b2e74bdbd40c72f9bf9dba3e0c38417f147518
+Author: aelx311 <alex311@gmail.com>
+Date:   Mon Jan 28 14:34:06 2013 -0600
+
+    deleted aelx311-TestCollatz.c++
+
+commit af7c2053ecbcc1a79f41714df502a3aa82aae08a
+Author: aelx311 <alex311@gmail.com>
+Date:   Mon Jan 28 14:32:07 2013 -0600
+
+    upadated log file
+
+commit db116cce5bdfe1e693978814c652bedd827ffda9
+Author: aelx311 <alex311@gmail.com>
+Date:   Sun Jan 27 18:38:36 2013 -0600
+
+    updated formula for odd number
+    
+    added 3 tests for test_eval()
+
+commit 2ad2dbe2450b4a7c7b80f41be1c95ee44396a057
+Author: aelx311 <alex311@gmail.com>
+Date:   Thu Jan 24 16:00:05 2013 -0600
+
+    Sphere Collatz deleted
+
+commit 225c0e1139a4f96b5742500b13100e77b4a7cc4a
+Author: aelx311 <alex311@gmail.com>
+Date:   Thu Jan 24 15:56:38 2013 -0600
+
+    remove TestCollatz.c++.app
+
+commit 07c6f1c5387c8a9baa1cf15e3a29d6ddd680ffe2
+Author: aelx311 <alex311@gmail.com>
+Date:   Thu Jan 24 15:55:04 2013 -0600
+
+    accepted by sphere
+
+commit 678f92076917d4bca9840ad1aa36c9da1546eeea
+Author: aelx311 <alex311@gmail.com>
+Date:   Wed Jan 23 12:30:52 2013 -0600
+
+    handle case where i > j
+
+commit 6ae5d2691fefda7df56d4928c8497db50a92fc10
+Author: aelx311 <alex311@gmail.com>
+Date:   Wed Jan 23 11:35:15 2013 -0600
+
+    added test case for test_print
+    
+    added:
+    test_print_1()
+    test_print_2()
+    test_print_3()
+
+commit 125e0d31f717cfca12b7870afb696ccdbcf9cd32
+Author: aelx311 <alex311@gmail.com>
+Date:   Wed Jan 23 00:15:58 2013 -0600
+
+    added test cases for test_read()
+    
+    added:
+    void test_read_1()
+    void test_read_2()
+    void test_read_3()
+
+commit 9fd3a29c98e78c6d3758d0c754ba501350fa36e5
+Author: aelx311 <alex311@gmail.com>
+Date:   Tue Jan 22 23:34:35 2013 -0600
+
+    valgrind output to TestCollatz.c++.out
+    
+    updated Collatz.log
+
+commit adaf241ed11437fb6e9d97069b42d0349a11c25f
+Author: aelx311 <alex311@gmail.com>
+Date:   Tue Jan 22 23:31:00 2013 -0600
+
+    passed original TestCollatz.c++
+
+commit dfc8ce491509f93d712a66a180a480dd064c4d9c
+Author: aelx311 <alex311@gmail.com>
+Date:   Tue Jan 22 19:20:13 2013 -0600
+
+    complete basic requirement
+    
+    pass given test cases
+
+commit 00bc3ece7b737110cb23def5e79c7e44ce940350
+Author: aelx311 <alex311@gmail.com>
+Date:   Tue Jan 22 19:08:40 2013 -0600
+
+    pass the given test cases
+
+commit 80a58f999b31deda94eefbc23c17d6aef3a9e2b1
+Author: aelx311 <alex311@gmail.com>
+Date:   Mon Jan 21 16:35:24 2013 -0600
+
+    push files to repo
+
+commit 7e483188f7462f2b98562ced5b1e908585d0791d
+Author: aelx311 <alex311@gmail.com>
+Date:   Fri Jan 18 10:20:11 2013 -0600
+
+    Deletes temporary Collatz.c++ file
+
+commit 03f665c1ac581f34ce1d2f31cc77c1171387635e
+Author: aelx311 <alex311@gmail.com>
+Date:   Fri Jan 18 10:18:12 2013 -0600
+
+    Adds temporary files for Collatz.log and Collatz.c++
+
+commit 0a6d7c1e788bcb4ffa2a7f67a61ab31bf939818c
+Author: aelx311 <alex311@gmail.com>
+Date:   Thu Jan 17 00:14:53 2013 -0600
+
+    forth commit
+
+commit 78692bee5bae1b54780c88203d20da6496c6f8ea
+Author: aelx311 <alex311@gmail.com>
+Date:   Thu Jan 17 00:14:02 2013 -0600
+
+    forth commit
+
+commit e62d8c1fa0fcfd9c3090dd2a5d3e93e2b4adc355
+Author: aelx311 <alex311@gmail.com>
+Date:   Thu Jan 17 00:12:10 2013 -0600
+
+    third commit
+
+commit b863cf2a2ed7ec4b276857ae1dd5841dcc12adaa
+Author: aelx311 <alex311@gmail.com>
+Date:   Thu Jan 17 00:10:07 2013 -0600
+
+    second commit
+
+commit 109a5571f0c37326d8e61e6c45b7cc50db67a03b
+Author: aelx311 <alex311@gmail.com>
+Date:   Thu Jan 17 00:08:48 2013 -0600
+
+    first commit
+
+commit 5ef7e6afca679392c99f612897b2997301aa0ebd
+Author: aelx311 <alex311@gmail.com>
+Date:   Thu Jan 17 00:03:12 2013 -0600
+
+    removed
+
+commit 82cd34caa9ed8d5a250420531c3eff81b0210ca3
+Author: aelx311 <alex311@gmail.com>
+Date:   Wed Jan 16 23:56:40 2013 -0600
+
+    second commit
+
+commit 669a471b4902a6e941c5f76a3b67b4c68636aeac
+Author: aelx311 <alex311@gmail.com>
+Date:   Wed Jan 16 16:41:46 2013 -0600
+
+    readme
