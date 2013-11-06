@@ -1,0 +1,141 @@
+commit 97b57d25402a1b4c8c067bdd43ed573fb69d6ca3
+Author: aelx311 <alex311@gmail.com>
+Date:   Wed Feb 13 16:17:18 2013 -0600
+
+    added comments to programs
+
+commit 795a9095560583bc232fbcefe08f4b91618a737e
+Author: aelx311 <alex311@gmail.com>
+Date:   Wed Feb 13 14:53:53 2013 -0600
+
+    removed extra files
+
+commit 204e08db8caec6567e59df7418eea12cbbca01bc
+Author: aelx311 <alex311@gmail.com>
+Date:   Wed Feb 13 14:52:21 2013 -0600
+
+    pushed to public repo
+
+commit 4ff087b7a5304ef7cb13326eb6769c90af46127e
+Author: aelx311 <alex311@gmail.com>
+Date:   Wed Feb 13 14:39:22 2013 -0600
+
+    removed .*~ files
+
+commit 83b5fa48fb0467ba26e4a7088023ffb203ed8509
+Author: aelx311 <alex311@gmail.com>
+Date:   Wed Feb 13 14:37:13 2013 -0600
+
+    removed README.md~
+
+commit 58d5a02a2dbacc833ae5e37ff362715a454cb2cf
+Author: aelx311 <alex311@gmail.com>
+Date:   Wed Feb 13 14:34:47 2013 -0600
+
+    completed unit tests
+
+commit ab10dbf6298eecf78831b8ec57a13994408794fb
+Author: aelx311 <alex311@gmail.com>
+Date:   Wed Feb 13 13:13:20 2013 -0600
+
+    added one test case
+
+commit 8e8ed7e632ce1e23111d0c3d699570a9ad36d807
+Author: aelx311 <alex311@gmail.com>
+Date:   Wed Feb 13 01:59:20 2013 -0600
+
+    accepted code
+
+commit 0d67889d64171ce0e4e379564b514992b6c896f9
+Author: aelx311 <alex311@gmail.com>
+Date:   Wed Feb 6 23:39:42 2013 -0600
+
+    works for multiple test cases and stored all ballots
+
+commit ce89770734ab95dc6310619628e7d7b636aa378a
+Author: aelx311 <alex311@gmail.com>
+Date:   Wed Feb 6 23:39:17 2013 -0600
+
+    works for multiple test cases and stored all ballots
+
+commit b8d57e4c568e9635e72f5b645d7a79bc34b881e1
+Author: ALEX NG DEHE <cs.utexas.edu>
+Date:   Wed Feb 6 21:53:14 2013 -0600
+
+    istream works for multiple test cases
+
+commit 675bf31d3ffef11638dd645992720e312ca1d630
+Merge: 489c68f b3c6eb3
+Author: ALEX NG DEHE <cs.utexas.edu>
+Date:   Wed Feb 6 18:39:51 2013 -0600
+
+    Merge branch 'master' of https://github.com/aelx311/cs371p-voting
+
+commit 489c68ff162c4d4a709230d757bf92b0b8c770b3
+Author: ALEX NG DEHE <cs.utexas.edu>
+Date:   Wed Feb 6 18:36:21 2013 -0600
+
+    istream works with only 1 test case
+
+commit b3c6eb3c55e6c99e647e91d311315c17a176c2bb
+Merge: 08560d7 01a608e
+Author: dquang32 <duyquang_nguyen@utexas.edu>
+Date:   Wed Feb 6 16:20:54 2013 -0600
+
+    Merge branch 'master' of github.com:aelx311/cs371p-voting
+
+commit 08560d745bbc2417a1adcdbb715a352b484bdbef
+Author: dquang32 <duyquang_nguyen@utexas.edu>
+Date:   Wed Feb 6 16:20:19 2013 -0600
+
+    updating
+
+commit 01a608eb36daa0ec1c131ecf57e81ae03d1ffe08
+Merge: 67002e4 33ec57b
+Author: aelx311 <alex311@gmail.com>
+Date:   Mon Feb 4 11:40:12 2013 -0600
+
+    removed README.txt
+
+commit 33ec57b15d2d09d37271542f0f82c4919fbae58d
+Author: aelx311 <alex311@gmail.com>
+Date:   Mon Feb 4 11:37:32 2013 -0600
+
+    Update README.txt
+
+commit 67002e468510b3ab320752aaadd43308a432abf4
+Merge: cd06d4a b6b9114
+Author: aelx311 <alex311@gmail.com>
+Date:   Mon Feb 4 11:26:23 2013 -0600
+
+    Merge branch 'master' of https://github.com/aelx311/cs371p-voting
+
+commit cd06d4a6dcb317ec41cf748fdfbcf197aa82dd62
+Author: aelx311 <alex311@gmail.com>
+Date:   Mon Feb 4 11:25:39 2013 -0600
+
+    removed README.txt
+
+commit b6b91140b6da0df493cb8849992cec65e87620e4
+Author: dquang32 <duyquang_nguyen@utexas.edu>
+Date:   Mon Feb 4 11:19:37 2013 -0600
+
+    updating
+
+commit a947b265fd32705cf90f6ee822c4a24bba16f1b2
+Author: aelx311 <alex311@gmail.com>
+Date:   Mon Feb 4 11:15:01 2013 -0600
+
+    changed to README.txt
+
+commit 3a61d71c1b17c4201d5b87942f691161f57c9d5f
+Author: aelx311 <alex311@gmail.com>
+Date:   Mon Feb 4 11:08:15 2013 -0600
+
+    Update README.md
+
+commit 0b07576fc97b6c4e1d1c6b18404334f079e03135
+Author: aelx311 <alex311@gmail.com>
+Date:   Mon Feb 4 09:01:51 2013 -0800
+
+    Initial commit
