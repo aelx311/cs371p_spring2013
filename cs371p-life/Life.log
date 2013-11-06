@@ -1,0 +1,119 @@
+commit f40cbada9cb4184b94470c226642e372180ea945
+Author: Ruoxing Sun <rxs1986@cs.utexas.edu>
+Date:   Wed Apr 24 19:21:06 2013 -0500
+
+    working version 2
+
+commit 2e5fb5310a1256d4a6d9e5f9016c51fddc73484e
+Author: Ruoxing Sun <rxs1986@cs.utexas.edu>
+Date:   Wed Apr 24 16:18:27 2013 -0500
+
+    working version 1
+
+commit ad1f45384901e9df623de36f273383707021456b
+Author: aelx311 <alex311@gmail.com>
+Date:   Wed Apr 24 14:54:30 2013 -0500
+
+    added UML Life.pdf
+
+commit da1891baf5b662346828d27864fa691bba6a54d5
+Author: aelx311 <alex311@gmail.com>
+Date:   Wed Apr 24 14:52:36 2013 -0500
+
+    added acceptance test and complete unit test
+
+commit d64d99c66c1b79589d9b40b32e22231f039e1939
+Author: Ruoxing Sun <rxs1986@cs.utexas.edu>
+Date:   Tue Apr 23 22:12:02 2013 -0500
+
+    mutate not working
+
+commit 8253b7f05f651b4706e9d19785ae2e7ec9792652
+Author: Ruoxing Sun <rxs1986@cs.utexas.edu>
+Date:   Tue Apr 23 15:44:25 2013 -0500
+
+    new keyword issue
+
+commit 361f1755bf49e981bfc147c9a8394267b391e7f4
+Author: Ruoxing Sun <rxs1986@cs.utexas.edu>
+Date:   Tue Apr 23 00:40:53 2013 -0500
+
+    life
+
+commit 798dae16e3beb390209a3ed41913230a71069f7e
+Author: Ruoxing Sun <rxs1986@cs.utexas.edu>
+Date:   Mon Apr 22 23:54:15 2013 -0500
+
+    changed find neighbor
+
+commit 4d4a3bf3f34163a42f8b1359dfed3f3b8a208df7
+Author: aelx311 <alex311@gmail.com>
+Date:   Mon Apr 22 22:21:13 2013 -0500
+
+    make run is working now, fredkincell gives wrong output
+
+commit 83690e2d4788c942d643d14f9029164c5e5d6e3d
+Author: Ruoxing Sun <rxs1986@cs.utexas.edu>
+Date:   Mon Apr 22 20:01:33 2013 -0500
+
+    apr 22th, 18:30
+
+commit 977be1099f1f3d548f01a78caea28f395887355f
+Author: aelx311 <alex311@gmail.com>
+Date:   Sun Apr 21 22:42:44 2013 -0500
+
+    added makefile
+
+commit 4d7bb0ebddca9e3a5df44c54892d82dbb411e92a
+Author: aelx311 <alex311@gmail.com>
+Date:   Sun Apr 21 22:22:48 2013 -0500
+
+    Apr 2013, updated some files, added Cell.h
+
+commit 773b9cff834ba778656fef778007b259399b707a
+Author: Ruoxing Sun <rxs1986@cs.utexas.edu>
+Date:   Fri Apr 19 19:41:35 2013 -0500
+
+    minor change
+
+commit e262a007ac0321b2ccab002267e0bcf7c7e24727
+Author: Ruoxing Sun <rxs1986@cs.utexas.edu>
+Date:   Fri Apr 19 19:39:05 2013 -0500
+
+    updated conwaycell, fredkincell, AB cell, Life
+
+commit cd1cf447eaad4689797f9a0e767304dab9bb4206
+Author: Ruoxing Sun <rxs1986@cs.utexas.edu>
+Date:   Fri Apr 19 19:38:05 2013 -0500
+
+    conway cell constructor, is alive, make alive, find neighbor, run TESTED, Apr 19th, 19:37
+
+commit c9bc13b0ce54be3ee8711abb365d872d5ea3a1cb
+Author: Ruoxing Sun <rxs1986@cs.utexas.edu>
+Date:   Fri Apr 19 18:13:31 2013 -0500
+
+    added some test, Apr 19th, 18:13
+
+commit 80ea53b5735700e3f67ae7f8b14577800fda0da5
+Author: Ruoxing Sun <rxs1986@cs.utexas.edu>
+Date:   Fri Apr 19 16:27:30 2013 -0500
+
+    Apr 19th, 4:30pm
+
+commit e7b9645070aa9af034ef6b6791e0776897c28a43
+Author: Ruoxing Sun <rxs1986@cs.utexas.edu>
+Date:   Wed Apr 17 18:29:51 2013 -0500
+
+    Apr 17th, initial commit
+
+commit f6d890c90d1b18743213a0db838e8ce8e23064d9
+Author: aelx311 <alex311@gmail.com>
+Date:   Wed Apr 17 14:25:32 2013 -0500
+
+    Updated Readme
+
+commit 9c4b55fe53ee121080ce964f17effaec756c8fc4
+Author: aelx311 <alex311@gmail.com>
+Date:   Wed Apr 17 14:22:38 2013 -0500
+
+    added required files
